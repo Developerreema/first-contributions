@@ -3,7 +3,7 @@
 
 Everything in open source involves other people.
 You're looking to join a team, and that means understanding the community and how it works.
-Walking in to a project and saying "Hi, here's what I think this project should be doing" is usually not taken as a good thing. 
+Walking in to a project and saying "Hi, here's what I think this project should be doing" is usually not taken as a good thing.       
 Some projects may welcome that sort of approach, but if the project has been running a while, the chances of that attitude being embraced are small. 
 **Listening is the best way to know what the project needs.**
 
@@ -122,3 +122,18 @@ Most of all, listen to what people around you discuss. See if you can recognize 
 15. **Teach and Help others**:
 The best way to learn more about a topic is to try to teach it.
 The best teach is the one who can explain complex stuff with simple examples. So you need to try to be the best teacher to be the best learner and the best in your programming world. Teaching others will make you feel better about yourself and it will help you get better skills and knowledge in your profession. When you get Help from someone don't keep it to yourself share it with the others. Make the world a better place to live.
+# أشياء يمكن لغير المبرمج القيام بها
+## ابدأ الاستماع
+
+كل شيء في المصدر المفتوح ينطوي على أشخاص آخرين.
+أنت تتطلع إلى الانضمام إلى فريق ، وهذا يعني فهم المجتمع وكيف يعمل.
+عادة لا يعتبر الدخول إلى مشروع وقول "مرحبا ، هذا ما أعتقد أن هذا المشروع يجب أن يفعله" أمرا جيدا.       
+قد ترحب بعض المشاريع بهذا النوع من النهج ، ولكن إذا كان المشروع يعمل لفترة من الوقت ، فإن فرص تبني هذا الموقف ضئيلة. 
+**1. ** انضم إلى قائمة بريدية **: بالنسبة للعديد من المشاريع ، تعد القائمة البريدية هي القناة الرئيسية للاتصال حول تطوير المشروع.
+في المشاريع الكبيرة ، هناك العديد من القوائم البريدية للاختيار من بينها.
+على سبيل المثال ، يحتوي مشروع PostgreSQL على ما لا يقل عن 12 قائمة موجهة للمستخدم وست قوائم مطورين في صفحة القائمة البريدية الخاصة به. 
+أقترح عليك اتباع القائمة الرئيسية الموجهة للمستخدم وقائمة المطورين الأساسية لبدء الاستماع.
+
+2. ** اتبع مدونة **: غالبا ما تقدم المدونات التي يحتفظ بها المطورون الأساسيون معلومات حول ما سيحدث في الإصدارات المستقبلية ،
+وما يتطلبه الأمر للوصول إلى هناك. يقوم موقع الكوكب بتجميع إدخالات الأخبار والمدونات من العديد من المصادر المتعلقة بالمشروع.
+إذا كان هناك موقع كوكب ، مثل planet.gnome.org أو planet.mysql.com ، فابدأ من هناك. ما عليك سوى البحث في Google عن "الكوكب<projectname>".
